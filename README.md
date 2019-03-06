@@ -1,5 +1,7 @@
 # natterbase_test
-This is a RESTFUL API that uses jwt for authentication, built with CodeIgniter for performing CRUD operations on a Country resource. Though users need to be registered first. The api also logs the activities of the user. The user can view the activities, which shows five per page
+This is a RESTFUL API that uses jwt for authentication, built with CodeIgniter for performing CRUD operations on a Country resource. Though users need to be registered first. The api also logs the activities of the user. The user can view the activities, which shows five per page.
+
+The database is natterbase.sql. Kindly import the database to use this API.
 
 #1 /Signup (POST)
 Requires the parameters below:
